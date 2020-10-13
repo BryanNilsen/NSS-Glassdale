@@ -1,4 +1,4 @@
-import { getCriminals, useCriminals } from './CriminalDataProvider.js'
+import { getCriminals, useCriminals } from './CriminalProvider.js'
 import { criminalAsHTML } from './Criminal.js'
 
 const criminalsContainer = document.querySelector(".criminalsContainer")
